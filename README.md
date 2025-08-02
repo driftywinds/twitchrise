@@ -1,4 +1,10 @@
-## An arm64 docker image for sending Apprise notifications for Live Twitch Channels made by drifty
+## Twitchrise - Apprise Notifications for Twitch Channels
+
+<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/driftywinds/twitchrise/refs/heads/main/icons/close_trans.png"> Stay up to date with your favourite Twitch channels going live (or offline).
+
+<br>
+
+[![Pulls](https://img.shields.io/docker/pulls/driftywinds/twitchrise.svg?style=for-the-badge)](https://img.shields.io/docker/pulls/driftywinds/twitchrise.svg?style=for-the-badge)
 
 Also available on Docker Hub - [```driftywinds/twitchrise:latest```](https://hub.docker.com/repository/docker/driftywinds/twitchrise/general)
 
