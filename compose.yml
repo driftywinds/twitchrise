@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  twitch-monitor:
+    image: ghcr.io/driftywinds/twitchrise:latest
+    container_name: twitchrise
+    restart: unless-stopped
+    volumes:
+      - ./.env:/app/.env
