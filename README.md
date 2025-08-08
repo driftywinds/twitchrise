@@ -11,8 +11,9 @@ Also available on Docker Hub - [```driftywinds/twitchrise:latest```](https://hub
 ### How to use: - 
 
 1. Download the ```compose.yml``` and ```.env``` files from the repo [here](https://github.com/driftywinds/twitchrise).
-2. Customise the ```.env``` file according to your needs.
-3. Run ```docker compose up -d```.
+2. Go to [https://dev.twitch.tv/console](https://dev.twitch.tv/console) and register a new application. You can name it anything, but the client type should be ```confidential```, that will give you a client ID and client secret.
+3. Customise the ```.env``` file according to your needs and use the client ID and client secret from above.
+4. Run ```docker compose up -d```.
 
 <br>
 
