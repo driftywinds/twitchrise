@@ -6,6 +6,9 @@
 
 [![Pulls](https://img.shields.io/docker/pulls/driftywinds/twitchrise.svg?style=for-the-badge)](https://img.shields.io/docker/pulls/driftywinds/twitchrise.svg?style=for-the-badge)
 
+> [!IMPORTANT]  
+> There is a Telegram Bot version of Twitchrise geared for multiple users and multiple apprise endpoints that can be found [here](https://github.com/driftywinds/twitchrise-bot). If you want to run Twitchrise for a group of friends or family, this would be the easy and friendly way to do so over Telegram.
+
 Also available on Docker Hub - [```driftywinds/twitchrise:latest```](https://hub.docker.com/repository/docker/driftywinds/twitchrise/general)
 
 ### How to use: - 
