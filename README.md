@@ -1,6 +1,6 @@
 ## Twitchrise - Apprise Notifications for Twitch Channels
 
-<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/driftywinds/twitchrise/refs/heads/main/icons/close_trans.png"> Stay up to date with your favourite Twitch channels going live (or offline).
+<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/driftywinds/twitchrise/22b00a79a61022cc242844430fe86c21a730245e/icons/twitchrise.svg"> Stay up to date with your favourite Twitch channels going live (or offline).
 
 <br>
 
